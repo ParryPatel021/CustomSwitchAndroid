@@ -12,3 +12,7 @@ UpWork like switch design in Andorid
 ### Switch Mode On
 
 <img src="images/Switch_mode_on.png" width="250" height="400">
+
+
+# Inspiration
+Inspired by [uigitdev/CustomSwitchWithIcon](https://github.com/uigitdev/CustomSwitchWithIcon)
